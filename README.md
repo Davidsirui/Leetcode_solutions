@@ -7,3 +7,4 @@ These solutions are better than at least 90% of coders'solution on Leetcode!
 Plus one  
 Two sum  
 Delete the repeating item in the sort array 
+LCS
